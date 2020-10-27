@@ -1,7 +1,7 @@
 from mymath import *
 
 
-def test_inc():
+def test_funcs():
     assert inc(3) == 4
     assert fact(5) == 120
     assert gcf(13, 17) == 1
